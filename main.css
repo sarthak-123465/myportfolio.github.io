@@ -1,0 +1,82 @@
+#heading{
+    text-align: center;
+    font-weight: bolder;
+    font-size: 45px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+body{
+    background-image: url(/images/pexels-mister-mister-2442888.jpg);
+  /*  background-position: 100px;*/
+    background-size: 1700px;
+    background-repeat: no-repeat;
+}
+.hero a{
+    font-size: 33px;
+    padding: 150px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-decoration: none;
+    color: darkblue;
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+}
+.hero p{
+    float: right;
+    font-size: 25px;
+    
+}
+.hero a:hover{
+    color:  lightblue;
+}
+.hero p{
+    color: white;
+    float: right;
+    position: relative; top: -20px;
+}
+.button {
+    float: right;
+    display: inline-block;
+    padding: 15px 25px;
+    font-size: 15px;
+    position:relative; left:255px; top:20px ;
+    cursor: pointer;
+    text-align: center;
+    text-decoration: none;
+    outline: none;
+    color: #fff;
+    background-color: #4CAF50;
+    border: none;
+    border-radius: 15px;
+    box-shadow: 0 9px #999;
+  }
+  
+  .button:hover {background-color: #3e8e41}
+  
+  .button:active {
+    background-color: #3e8e41;
+    box-shadow: 0 5px #666;
+    transform: translateY(4px);
+  }
+  .Intro{
+    position: relative; top: 100px;
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+  }
+#skills{
+    
+    font-size: 30px;
+    color: whitesmoke;
+    font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+}
+.skilslist{
+    font-size: 30px;
+    color: chartreuse;
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+}
+#b{
+    float: right;
+    font-size: 30px;
+    position: relative;
+    top: 30px;
+    left: 250px;
+    color:gold;
+}

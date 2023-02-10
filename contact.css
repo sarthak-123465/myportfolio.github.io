@@ -1,0 +1,15 @@
+body{
+    background-image: url(/images/markus-winkler-q3QPw37J6Xs-unsplash.jpg);
+    background-size: 1200px;
+    background-repeat: no-repeat;
+    opacity: 10;
+}
+#id1{
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    text-align: center;
+}
+.c1{
+    font-size:20px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-style: oblique;
+}
